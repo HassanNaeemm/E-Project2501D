@@ -1,0 +1,2 @@
+<h1>Ainwai Page</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, quae. Enim unde inventore incidunt qui quibusdam dolore? Beatae nemo, delectus tempora enim aliquam ipsa, unde quas dolorum asperiores sed maiores optio ipsam modi itaque vero? Ullam veritatis repellat magni explicabo.</p>
